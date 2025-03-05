@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "3"
+mappingDefinitions:
+  SOURCE:
+    database: COALESCE_SAMPLE_DATABASE
+    schema: TPCH_SF001
+  WORK:
+    database: ALLISON_DB_CANADA
+    schema: PROD_AU
+name: New Environment
+type: Environment
