@@ -1,0 +1,34 @@
+config:
+  entities:
+    nodeTypes:
+      "149":
+        defaultStorageLocation: null
+        isDisabled: false
+      "150":
+        defaultStorageLocation: null
+        isDisabled: false
+      "151":
+        defaultStorageLocation: null
+        isDisabled: false
+      "152":
+        defaultStorageLocation: null
+        isDisabled: false
+      "153":
+        defaultStorageLocation: null
+        isDisabled: false
+      "154":
+        defaultStorageLocation: null
+        isDisabled: false
+      "155":
+        defaultStorageLocation: null
+        isDisabled: false
+      "428":
+        defaultStorageLocation: null
+        isDisabled: false
+  packageVariables: ""
+fileVersion: 1
+id: "@coalesce/streams-and-tasks"
+name: streams-and-tasks
+packageID: "@coalesce/streams-and-tasks"
+releaseID: 8989c0fc-e85e-4d82-9f37-b8ae98358d79
+type: Package
