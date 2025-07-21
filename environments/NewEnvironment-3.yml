@@ -5,7 +5,7 @@ mappingDefinitions:
     database: COALESCE_SAMPLE_DATABASE
     schema: TPCH_SF001
   WORK:
-    database: ALLISON_DB_CANADA
+    database: ALLISON_DB_EXT
     schema: PROD_AU
 name: New Environment
 type: Environment
