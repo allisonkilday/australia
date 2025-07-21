@@ -1,0 +1,6 @@
+excludeSelector: ""
+fileVersion: 1
+id: "1"
+includeSelector: "{ subgraph: \"New Subgraph\" }"
+name: Test Post SQL Job
+type: Job
